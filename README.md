@@ -3,14 +3,14 @@ Wellcome to the public directory of Over War Games!
 This this will be our space for create a Opensource Game and join users!
 
 Usage:
-1- Download and install the last version of Git: http://git-scm.com/downloads
-2- Make a paste on your computer with name "Git". http://prntscr.com/61ymr4
-3- Join in this paste and right click and select "Git Bash". http://prntscr.com/61yn1i
-4- Copy this command: "git https://github.com/OverWarGames/OpenSource.git" to clipboard. http://prntscr.com/61yow9
-5- Back to "Git Bash" and right click in top bar of prompt "Edit > Paste" and press enter. http://prntscr.com/61ypho
-6- Done! http://prntscr.com/61yq3y
-7- Check if show the paste "OpenSource" in inside paste. http://prntscr.com/61yqd7
-8- Ok! sucess on clone this repository! http://prntscr.com/61yqwn
+* 1- Download and install the last version of Git: http://git-scm.com/downloads
+* 2- Make a paste on your computer with name "Git". http://prntscr.com/61ymr4
+* 3- Join in this paste and right click and select "Git Bash". http://prntscr.com/61yn1i
+* 4- Copy this command: "git https://github.com/OverWarGames/OpenSource.git" to clipboard. http://prntscr.com/61yow9
+* 5- Back to "Git Bash" and right click in top bar of prompt "Edit > Paste" and press enter. http://prntscr.com/61ypho
+*6- Done! http://prntscr.com/61yq3y
+* 7- Check if show the paste "OpenSource" in inside paste. http://prntscr.com/61yqd7
+* 8- Ok! sucess on clone this repository! http://prntscr.com/61yqwn
 
 Instruction:
 To ensure the whole of this source code the developer must follow some rules:
