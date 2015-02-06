@@ -2,7 +2,7 @@
 Wellcome to the public directory of Over War Games!
 This this will be our space for create a Opensource Game and join users!
 
-Usage:
+Usage [How to clone this repository]:
 * 1- Download and install the last version of Git: http://git-scm.com/downloads
 * 2- Make a paste on your computer with name "Git". http://prntscr.com/61ymr4
 * 3- Join in this paste and right click and select "Git Bash". http://prntscr.com/61yn1i
@@ -11,6 +11,12 @@ Usage:
 * 6- Done! http://prntscr.com/61yq3y
 * 7- Check if show the paste "OpenSource" in inside paste. http://prntscr.com/61yqd7
 * 8- Ok! sucess on clone this repository! http://prntscr.com/61yqwn
+
+Usage [How update your source from server]
+* 1- Enter in "OpenSource" directory. http://prntscr.com/61yqwn
+* 2- Right click and select "Git Bash". http://prntscr.com/61z054
+* 3- Type "Git Pull" and press enter. http://prntscr.com/61z0nl
+* 4- Done! http://prntscr.com/61z15l
 
 Instruction:
 To ensure the whole of this source code the developer must follow some rules:
