@@ -8,7 +8,7 @@ Usage:
 * 3- Join in this paste and right click and select "Git Bash". http://prntscr.com/61yn1i
 * 4- Copy this command: "git https://github.com/OverWarGames/OpenSource.git" to clipboard. http://prntscr.com/61yow9
 * 5- Back to "Git Bash" and right click in top bar of prompt "Edit > Paste" and press enter. http://prntscr.com/61ypho
-*6- Done! http://prntscr.com/61yq3y
+* 6- Done! http://prntscr.com/61yq3y
 * 7- Check if show the paste "OpenSource" in inside paste. http://prntscr.com/61yqd7
 * 8- Ok! sucess on clone this repository! http://prntscr.com/61yqwn
 
