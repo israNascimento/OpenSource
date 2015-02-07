@@ -40,6 +40,10 @@ To ensure the whole of this source code the developer must follow some rules:
 # Map style: 
 * Open World (Andre Campos)
 
+# Cameras:
+* First Person
+* Third Person
+
 # Weapons of the first level:
 * Club basebal (Joao Pedro Prado)
 * Sling (Joao Pedro Prado)
@@ -91,6 +95,10 @@ Para garantir a globalidade deste código fonte o desenvolvedor deverá seguir a
 
 # Estilo do mapa: 
 * Open World (Andre Campos)
+
+# Cameras:
+* Primeira Pessoa
+* Terceira Pessoa
 
 # Armas do primeiro nível:
 * Taco de basebal (Joao Pedro Prado)
