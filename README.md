@@ -18,6 +18,16 @@ Usage [How update your source from server]
 * 3- Type "Git Pull" and press enter. http://prntscr.com/61z0nl
 * 4- Done! http://prntscr.com/61z15l
 
+Usage [How upload a file to server]
+* 1- Create a file ou put a file in "OpenSource" directory in your computer. http://prntscr.com/61ztbc
+* 2- Right click and select "Git Bash". http://prntscr.com/61zu8s
+* 3- Type "git add -A" to add all files. http://prntscr.com/61zuh0
+* 4- Done! http://prntscr.com/61zuz2
+* 5- Put "git commit -m "A short description of this commit." http://prntscr.com/61zvlr
+* 6- Done! http://prntscr.com/61zvr5
+* 7- Now put "git push" to send all files to server. http://prntscr.com/61zw0b
+* 8- Put your git account and your passworld end enjoy!
+
 Instruction:
 To ensure the whole of this source code the developer must follow some rules:
 * Write variables in english.
