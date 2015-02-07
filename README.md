@@ -6,7 +6,7 @@ Usage [How to clone this repository]:
 * 1- Download and install the last version of Git: http://git-scm.com/downloads
 * 2- Make a paste on your computer with name "Git". http://prntscr.com/61ymr4
 * 3- Join in this paste and right click and select "Git Bash". http://prntscr.com/61yn1i
-* 4- Copy this command: "git https://github.com/OverWarGames/OpenSource.git" to clipboard. http://prntscr.com/61yow9
+* 4- Copy this command: "git clone https://github.com/OverWarGames/OpenSource.git" to clipboard. http://prntscr.com/61yow9
 * 5- Back to "Git Bash" and right click in top bar of prompt "Edit > Paste" and press enter. http://prntscr.com/61ypho
 * 6- Done! http://prntscr.com/61yq3y
 * 7- Check if show the paste "OpenSource" in inside paste. http://prntscr.com/61yqd7
@@ -58,7 +58,7 @@ Uso [Como acessar este repositorio]:
 * 1- Baixe e instale a ultima versão do Git: http://git-scm.com/downloads
 * 2- Crie uma pasta em seu computador com o nome "Git". http://prntscr.com/61ymr4
 * 3- Entre nesta pasta e clique com o lado direito do mouse e selecione "Git Bash". http://prntscr.com/61yn1i
-* 4- Copie este comando: "git https://github.com/OverWarGames/OpenSource.git" para o clipboard. http://prntscr.com/61yow9
+* 4- Copie este comando: "git clone https://github.com/OverWarGames/OpenSource.git" para o clipboard. http://prntscr.com/61yow9
 * 5- Volte para o "Git Bash" e clique com o lado direito do mouse em cima da janela do promp "Editar > Colar" e pressione enter. http://prntscr.com/61ypho
 * 6- Pronto! http://prntscr.com/61yq3y
 * 7- Verifique se apareceu a pasta "OpenSource" dentro da pasta Git. http://prntscr.com/61yqd7
